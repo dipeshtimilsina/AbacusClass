@@ -1,20 +1,16 @@
 import React from 'react';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <p>
-          <center><h1>Welcome to your Online Abacus Class!</h1></center>
+          <h1><center>Welcome to our Online Abacus Platform</center></h1>
+          <br></br>
+          <h3>You can check out our Github Account <a href="https://github.com/dipeshtimilsina/AbacusClass"> here </a> </h3>
         </p>
-        <a
-          className="App-link"
-          href="https://github.com/dipeshtimilsina/AbacusClass"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         <h2>Check out our project!</h2> 
-        </a>
+        
       </header>
     </div>
   );
