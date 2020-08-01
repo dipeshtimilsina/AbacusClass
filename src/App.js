@@ -12,9 +12,9 @@ function App() {
           <br></br>
           <h2><center><b>Team Members</b></center></h2>
           <li>
-            <ul>Bijesh: <a href="https://github.com/bijeshofficial">Github account</a></ul>
-            <ul>Dipesh: <a href="https://github.com/dipeshtimilsina">Github account</a></ul>
-            <ul>Rupesh: <a href="https://github.com/Newinacode">Github account</a></ul>
+            <ul>Bijesh R: <a href="https://github.com/bijeshofficial">Github account!</a></ul>
+            <ul>Dipesh T: <a href="https://github.com/dipeshtimilsina">Github account</a></ul>
+            <ul>Rupesh A: <a href="https://github.com/Newinacode">Github account</a></ul>
 
           </li>
         </p>
